@@ -1,1 +1,3 @@
 master banch'te oluşturduk burada ikinci.txt yok çünü feat banch'in içinde 
+
+son commit 
